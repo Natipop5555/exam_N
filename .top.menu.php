@@ -1,0 +1,46 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"", 
+		"/", 
+		Array(),
+		Array("IMG"=>"/local/templates/.default/img/btn-home.png"),
+		"" 
+	),
+	Array(
+		"Компания", 
+		"company/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Новости", 
+		"news/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Продукция", 
+		"products/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Услуги", 
+		"services/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"История компании", 
+		"/history-company/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>
